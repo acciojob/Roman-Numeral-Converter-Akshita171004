@@ -1,4 +1,4 @@
- 	const obj = {
+const obj = {
       0:['M',1000], 
       1:['D', 500], 
       2:['C', 100], 
@@ -19,7 +19,7 @@ let n=798;
 					{
 						ans=ans+value;
 						n=n-num;
-						break
+						break;
 					}
 				}
 		}
